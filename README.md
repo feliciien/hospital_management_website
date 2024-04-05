@@ -1,4 +1,4 @@
-Certainly! Below is an example README.md file for your hospital management website project:
+
 
 ```
 # Hospital Management Website
