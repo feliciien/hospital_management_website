@@ -14,9 +14,9 @@ const GoogleLoginButton = () => {
 
   return (
     <div>
-      <h1>Google OAuth Login Example</h1>
+      <h1>Please log in to access the system.</h1>
       <GoogleLogin
-        clientId="YOUR_GOOGLE_CLIENT_ID"
+        clientId="717130739079-24jd8oagudcp5uv3pgrpddafpgiujqoa.apps.googleusercontent.com"
         buttonText="Login with Google"
         onSuccess={responseGoogle}
         onFailure={onFailure}
